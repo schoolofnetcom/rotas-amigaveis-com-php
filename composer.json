@@ -1,0 +1,17 @@
+{
+    "name": "erikfig/router",
+    "autoload": {
+      "psr-4": {
+        "SON\\Router\\": "src"
+      }
+    },
+    "authors": [
+        {
+            "name": "Erik Figueiredo",
+            "email": "erik.figueiredo@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.3"
+    }
+}
